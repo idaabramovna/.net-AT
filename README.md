@@ -1,1 +1,1 @@
-# .net at
+# This is an educational course
